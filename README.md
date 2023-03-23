@@ -1,7 +1,7 @@
 # Mafia
 This project was for my Advanced Programming course - Dec. 2018
 
-In this project, a system is presented to help the god of the mafia game to manage it. This program saves all the events and flow of the game and helps the god of the game in announcing the result.
+In this project, a system is presented to help the god of the mafia game. This program saves all the events and flow of the game and helps the god of the game in announcing the result.
 
 
 ## Game description:
