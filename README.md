@@ -69,7 +69,7 @@ command format `Silent <silencer name> <person>`
 With this command, you can get the number of mafia members and polices in each part of the game:
 command format `Get_room_state`
 
-Install Makefile and then run main.cpp
+Install `Makefile` and then run `main.cpp`
 
 
 Enjoy! 
